@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lan">
+        <item>tel</item>
+        <item>tamil</item>
+        <item>hin</item>
+        <item>urdu</item>
+        <item>kanad</item>
+        <item>eng</item>
+    </string-array>
+
+</resources>
